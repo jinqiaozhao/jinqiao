@@ -1,2 +1,2 @@
 #jinqiao
-#welcome to jinqiao's github.
+#welcome to jinqiao's github
